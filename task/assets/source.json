@@ -1,0 +1,70 @@
+{
+  "dimension": {
+    "length": "11",
+    "height": "11",
+    "depth": "0",
+    "unit": "inch"
+  },
+  "pro_cat": "Artist Collection",
+  "pro_cat_id": 37714624535,
+  "pro_name": "Live testing with many artwork",
+  "is_published": false,
+  "pro_image": "https://cdn.shopify.com/s/files/1/2287/8665/products/09032021100034.png?v=1615264271",
+  "plt_pro_id": 6543694299178,
+  "pro_id": "6046fa11f482a36b39a29574",
+  "pro_dec": "<p><strong>ARTIST'S OWN WORDS:</strong><br>yes testing </p><p><strong>Size: </strong>  11\"H X 11\"L X 0\"D</p><p><strong>Weight: </strong>1.00 kg</p><p><strong>Framed: </strong>Yes</p><br><strong>Please Note:</strong><ul style=\"list-style-type: disc;\">\n<li>This item is <strong>NOT</strong> sold in physical stores.</li>\n<li>Shipping will take around <strong>7 days</strong>.</li>\n<li>We do take <strong>CUSTOMIZED</strong> orders. Please email us your requirements (size, theme/subject, colors) for the Artwork. Price quote will be sent accordingly.</li>\n<li>\n<strong>RETURN </strong>won't be accepted.</li>\n<li>Artwork comes <strong>SIGNED</strong> by our artists as we are selling the original ones.</li>\n</ul>",
+  "pro_var_id": "39282126487594",
+  "pro_exp_price": 0.22,
+  "pro_quantity": 1,
+  "pro_inventory_id": "41375831359530",
+  "reference_weight": 1,
+  "reference_weight_unit": "kg",
+  "partner_own_words": "yes testing ",
+  "frame": "Yes",
+  "pro_images": [
+    {
+      "plt_img_id": "27980315066410",
+      "img_id": "6046fa12f482a35deba2957c",
+      "sort_order": 1,
+      "std_img_url": "https://cdn.shopify.com/s/files/1/2287/8665/products/09032021100034.png?v=1615264271",
+      "isAR_image": false
+    },
+    {
+      "plt_img_id": "27980315099178",
+      "img_id": "6046fa12f482a305a8a2957d",
+      "sort_order": 2,
+      "std_img_url": "https://cdn.shopify.com/s/files/1/2287/8665/products/09032021100037.png?v=1615264271",
+      "isAR_image": false
+    },
+    {
+      "plt_img_id": "27980315131946",
+      "img_id": "6046fa12f482a34fe1a2957f",
+      "sort_order": 3,
+      "std_img_url": "https://cdn.shopify.com/s/files/1/2287/8665/products/09032021100038.png?v=1615264271",
+      "isAR_image": false
+    },
+    {
+      "plt_img_id": "27980315164714",
+      "img_id": "6046fa12f482a33f05a2957e",
+      "sort_order": 5,
+      "std_img_url": "https://cdn.shopify.com/s/files/1/2287/8665/products/09032021100106.png?v=1615264271",
+      "isAR_image": false
+    }
+  ],
+  "currency": "INR",
+  "currency_symbol": "",
+  "is_base_currency": false,
+  "partner_price": 14,
+  "conversion_price": 65,
+  "base_currency": "USD",
+  "pro_type": "Art",
+  "dimensions": {
+    "length": "11",
+    "height": "11",
+    "depth": "0",
+    "unit": "inch"
+  },
+  "framed_option": {
+    "frame": "Yes"
+  }
+}
